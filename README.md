@@ -1,4 +1,6 @@
 # 2Cubes
+![image](https://user-images.githubusercontent.com/39160454/199083214-7c5a6ea8-88b8-4ea1-93e3-61d0be4fad2e.png)
+
 Управление:
 ЛКМ - установка точек пути
 ПКМ и движение мышкой - вращение камеры
